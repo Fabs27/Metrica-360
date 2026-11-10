@@ -36,32 +36,12 @@ SensorManager
 Accelerometer
 ConstraintLayout
 Android Studio
-📂 Estrutura do Projeto
-app/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   ├── res/
-│   │   └── AndroidManifest.xml
-│   └── test/
-├── build.gradle.kts
-└── proguard-rules.pro
-🔧 Instalação
-Clone o repositório:
 
-git clone https://github.com/fabriciofaustino/metrica360.git
-Abra o projeto no Android Studio e execute:
-
-gradlew build
-Ou gere o APK:
-
-gradlew assembleRelease
 🎯 Objetivo do Projeto
 O objetivo do Metrica 360 é oferecer aos usuários Android uma ferramenta de utilidade para medição de ângulos e nivelamento, inspirada na praticidade encontrada em outras plataformas, mas desenvolvida especialmente para o ecossistema Android.
 
 👨‍💻 Desenvolvedor
-Fabricio ente apaixonado por tecnologia e criação de soluções úteis para o dia a dia.
-GitHub: https://github.com/fabriciofaustino
+Fabricio Faustino
 
 📜 Licença
 Este projeto está licenciado sob a Licença MIT.
