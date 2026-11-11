@@ -24,7 +24,7 @@ Metrica 360
 
 Quando o dispositivo está perfeitamente nivelado, a interface destaca a medição utilizando uma cor verde para facilitar a visualização.
 
-Inclinação detectada (-8°)
+Inclinação detectada (90°)
 Metrica 360
 
 O aplicativo detecta e exibe em tempo real a inclinação do dispositivo utilizando os sensores internos do Android.
